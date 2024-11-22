@@ -1,0 +1,22 @@
+.experience-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.experience-text {
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+.experience-section-header {
+  font-weight: 900;
+  margin-left: 10%;
+  margin-bottom: 3px;
+}
+.experience-name {
+  margin-left: 10%;
+}
+.experience-section-main ul li {
+  margin-bottom: 8px;
+}

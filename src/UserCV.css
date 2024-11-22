@@ -1,0 +1,10 @@
+.cv-wrapper {
+  box-sizing: border-box;
+  border: 1px solid black;
+  padding: 40px 10px;
+  width: 530px;
+  height: auto;
+  position: absolute;
+  left: 30%;
+  top: 10%;
+}

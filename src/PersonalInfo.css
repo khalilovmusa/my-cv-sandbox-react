@@ -1,0 +1,15 @@
+* {
+  font-family: monospace;
+}
+.name-div {
+  font-size: 22px;
+  font-weight: 900;
+  display: flex;
+  justify-content: space-between;
+}
+.name-div div {
+  margin-left: ;
+}
+.personalinfo-wrapper {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.contacts-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contact-text {
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+.contacts-info-container {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+.contacts-info-container div {
+  margin-bottom: 5px;
+}
+
+.contacts-info-container div span {
+  font-weight: 700;
+  margin-right: 5px;
+}
